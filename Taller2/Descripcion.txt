@@ -1,0 +1,13 @@
+1 - Inicializar un nuevo repositorio.
+2 - Verificar el estado del repositorio.
+3 - Añadir el archivo Declaracion al stagin area.
+4 - Verificar el estado del repositorio
+5 - Hacer un commit con el mensaje "Declaracion Ingles"
+6 - Mostrar el historial del commit
+7 - Modificar la declaracion con el siguiente texto.
+
+	Warning: For best battery life, do not leave robot battery charging overnight.
+
+6 - Añadir el archivo Declaracion a la stagin area.
+7 - Hacer un commit con el mensaje "Peligross"
+8 - Mostrar el historial del commit de forma resumida.
