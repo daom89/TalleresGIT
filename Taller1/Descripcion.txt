@@ -1,0 +1,28 @@
+1 - Inicializar un nuevo repositorio.
+2 - Verificar el estado del repositorio.
+3 - Añadir el archivo DietaZologico a la stagin area.
+4 - Hacer un commit con el mensaje "Dieta Basica"
+5 - Modificar esta nueva dieta dentro del archivo.
+
+	3. Chinchilla de cola larga
+	Comidas: 1 bolsa de pellets de animales, 1 bolsa de frutos secos, castañas de cajú 1/2 de bolsa, 5 zanahorias, 3 tallos de col rizada
+	Horario: 8:00 am
+	Instrucciones: contenidos de dispersión a lo largo de Chinchilla hábitat
+
+6 - Añadir el archivo DietaZologico a la stagin area.
+7 - Verificar el estado del repositorio e Indicar el estado del archivo DietaZologico.
+8 - Hacer un comit con el mensaje "Dieta Actualizada"
+9 - Mostrar el historial del commit
+10 - Añadir las siguientes dietas al archivo.
+
+	4. ranas venenosas
+	Comidas: 1 bolsa grillos pequeños
+	Tiempos: 6:00 am
+	Instrucciones: bolsa vacía en el hábitat de la rana una vez al día. No toque las ranas! Extremadamente venenoso.
+
+	5. gorila occidental
+	Comidas: (mañana) 20 lbs. la col rizada, 10 lbs. apio, 10 lbs. judías verdes, 5 lbs. zanahorias, 1 bolsa de patatas dulces. (Noche) 10 10 Los plátanos, manzanas, naranjas, 5 5, 20 libras de mango. uvas, 10 lbs. nabos, 5 lbs. papas blancas
+	Horario: 06:30 am, 12:00 pm, 7:00 pm
+	Instrucciones: alimentar a los gorilas en la mañana como grupo, se extendió el forraje durante la comida del mediodía, y dividir cantidades para la alimentación individual por la tarde
+
+11 - Agregar el archivo, hacer un commit con el mensaje "Nuevas Mascotas" y mostrar el historial de GIT.
