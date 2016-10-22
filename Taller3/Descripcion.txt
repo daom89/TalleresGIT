@@ -1,0 +1,73 @@
+1 - Inicializar un nuevo repositorio.
+2 - Verificar el estado del repositorio.
+3 - Añadir los 3 archivos a la stagin area.
+4 - Hacer un commit con el mensaje "Documentos Base"
+5 - Modificar el archivo road-not-taken.txt con el siguiente texto.
+
+	I Took All the Roads, by Robert Forks
+
+	Two roads went exactly the same way
+	And I was happy to travel them both
+	And be one traveler, I figured it out quick
+	blah blah blah
+	blah blah blah blah
+
+	blah blah blah blah
+	Both had terrible claims
+	Because it was smooth and boring
+	blah blah blah blah
+	This poem is terrible, Rob.
+
+	blah blah blah blah
+	In leaves no step had trodden blah
+	Oh, blah blah blah BLAAAAHHH
+	WEEEEEEEE!! This road is awesome.
+	I'm definitely coming back here!
+
+	Hahahahahahahhaha
+	Two roads diverged in a hahahahaha
+	HAHAHAHAHAHAHHAHAHAHAH! Gotcha.
+
+6 - Añadir el archivo a la stagin area.
+7 - Realizar un commit con el texto "Poema Dañado"
+8 - Reversar los cambios realizados en el archivo road-not-taken.txt con checkout y HEAD.
+9 - Añadir el siguiente texto al final del archivo road
+	And that has made all the difference.
+10 - Añadirlo al stagin area.
+11 - Realizar un commit con el texto "Poema Road Final"
+12 - Cambiar todo el texto del archivo oven-bird.txt por el siguiente texto:
+
+	The Annoying Bird, by Robyn Lost
+
+	There is a terrible singer nobody wants to hear,
+	Loud, a mid-summer waker-upper bird,
+	Who makes aweful noise all day and night,
+	Like BAAAAAAAAH! And QUACK!
+	He says things that make no sense
+	BLAH BLAH BLAH BLAH BAAAAAH QUACK
+	On sunny days a moment's CHIRP;
+	Ruining your poem ruining your poem ruining it, yeah!
+	This one will never ever ever ever be published, nope!
+	The bird would CHIRP CHIRP BAAAK!
+	bird bird bird bird bird bird
+
+13 - Añadir el archivo a la stagin area.
+14 - Realizar un commit con el texto "Oven Dañado"
+15 - Reversar los cambios realizados en el archivo oven-bird.txt solo con checkout.
+16 - Añadir la siguiente linea al archivo oven-bird.txt
+	Is what to make of a diminished thing.
+17 - Comprobar las diferencias del archivo fire-and-ice.txt
+18 - Añadir el siguiente texto al final del archivo fire-and-ice.txt
+
+	Is also okay
+	And would suffice.
+
+19 - Comprobar las diferencias del archivo fire-and-ice.txt
+20 - Agregar los archivos oven-bird.txt y fire-and-ice.txt al stagin area con un solo comando.
+21 - Quitar el archivo fire-and-ice.txt del stage area sin eliminarlo del working directory.
+22 - Realizar un commit.
+23 - Modificar los 3 archivos.
+24 - Agregar los 3 archivos al stagin indicando el nombre de cada uno.
+25 - Realizar un commit con el mensaje "Cambios Locos"
+26 - Resetear el ultimo commit y dejarlo como estaba antes de los "cambios locos"
+27 - Eliminar todos los commits anteriores y restablecer el repositorio al inicio.
